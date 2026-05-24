@@ -1,15 +1,15 @@
 import { Queue } from 'bullmq';
 
 
-const connection = {
+export const connection = {
     host: "localhost",
     port: 6379
 }
 
-const emailQueue = new Queue('emails', { connection });
+export const emailQueue = new Queue('emails', { connection });
 
 
-module.exports={
+export default {
     emailQueue,
     connection
 }
