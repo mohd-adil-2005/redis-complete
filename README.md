@@ -1,4 +1,4 @@
 # redis-complete
 
 # 08 pu /sub
-![![alt text](image-1.png)](image.png)
+![diagram of pub/sub](image-2.png)
