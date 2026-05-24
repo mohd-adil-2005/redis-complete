@@ -1,4 +1,4 @@
 # redis-complete
 
 # 08 pu /sub
- ![pub/sub image 08pubsubnotificationlive](image.png) 
+![![alt text](image-1.png)](image.png)
